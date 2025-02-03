@@ -29,7 +29,7 @@ function setup() {
 }
 
 function draw() {
-    background(transparent);
+    background("transparent");
 
     handleScroll();
 
